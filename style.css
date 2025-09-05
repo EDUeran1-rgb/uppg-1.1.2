@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-image: url(bild.jpg);
-    background-color: lightgray;
+    background-size: cover;
 }
 
 .headerbox {
