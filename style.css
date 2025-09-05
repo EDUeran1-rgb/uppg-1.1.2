@@ -1,6 +1,4 @@
-*{
-    --height:10dvh;
-}
+
 body {
     margin: 0;
     padding: 0;
@@ -19,8 +17,15 @@ body {
 }
 .txtcontainer {
     margin: 10px;
+    padding-top: 10px;
     background-color: rgba(0, 0, 0, 0.13);
     border-radius: 5px;
+}
+.intro {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
 }
 .txt1-2 {
     display: flex;
