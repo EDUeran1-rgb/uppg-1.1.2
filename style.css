@@ -1,3 +1,8 @@
 *{
     height:10dvh;
 }
+.title1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
