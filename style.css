@@ -15,11 +15,14 @@ body {
     background-color: white;
     border-radius: 5px;
     padding: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
 }
 .txtcontainer {
     margin: 10px;
     padding-top: 10px;
-    background-color: rgba(0, 0, 0, 0.13);
+    background-color: rgba(0, 0, 0, 0.237);
     border-radius: 5px;
 }
 .intro {
@@ -27,6 +30,9 @@ body {
     border-radius: 5px;
     padding: 10px;
     margin: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
 }
 .txt1-2 {
     display: flex;
@@ -37,12 +43,18 @@ body {
     border-radius: 5px;
     padding: 10px;
     margin: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
 }
 .txt2 {
     background-color: white;
     border-radius: 5px;
     padding: 10px;
     margin: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
 }
 .txt3-4 {
     display: flex;
@@ -53,12 +65,18 @@ body {
     border-radius: 5px;
     padding: 10px;
     margin: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
 }
 .txt4 {
     background-color: white;
     border-radius: 5px;
     padding: 10px;
     margin: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
 }
 .txt5-6 {
     display: flex;
@@ -69,12 +87,18 @@ body {
     border-radius: 5px;
     padding: 10px;
     margin: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
 }
 .txt6 {
     background-color: white;
     border-radius: 5px;
     padding: 10px;
     margin: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
 }
 .txt7-8 {
     display: flex;
@@ -85,12 +109,18 @@ body {
     border-radius: 5px;
     padding: 10px;
     margin: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
 }
 .txt8 {
     background-color: white;
     border-radius: 5px;
     padding: 10px;
     margin: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
 }
 .txt9-10 {
     display: flex;
@@ -101,10 +131,16 @@ body {
     border-radius: 5px;
     padding: 10px;
     margin: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
 }
 .txt10 {
     background-color: white;
     border-radius: 5px;
     padding: 10px;
     margin: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
 }
