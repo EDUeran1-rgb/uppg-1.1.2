@@ -1,11 +1,104 @@
 *{
-    height:10dvh;
+    --height:10dvh;
 }
-#header {
+body {
+    margin: 0;
+    padding: 0;
+    background-color: lightgray;
+}
+
+.headerbox {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-#txt {
-    color: rgb(255, 0, 0);
+.headertxt {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+.txtcontainer {
+    margin: 10px;
+    background-color: rgba(0, 0, 0, 0.13);
+    border-radius: 5px;
+}
+.txt1-2 {
+    display: flex;
+    justify-content: column;
+}
+.txt1 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+.txt2 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+.txt3-4 {
+    display: flex;
+    justify-content: column;
+}
+.txt3 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+.txt4 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+.txt5-6 {
+    display: flex;
+    justify-content: column;
+}
+.txt5 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+.txt6 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+.txt7-8 {
+    display: flex;
+    justify-content: column;
+}
+.txt7 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+.txt8 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+.txt9-10 {
+    display: flex;
+    justify-content: column;
+}
+.txt9 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+.txt10 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
 }
