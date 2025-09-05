@@ -1,8 +1,11 @@
 *{
     height:10dvh;
 }
-.title1 {
+#header {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+#txt {
+    color: rgb(255, 0, 0);
 }
